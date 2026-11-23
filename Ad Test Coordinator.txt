@@ -1,0 +1,11 @@
+Ad: Test Coordinator
+
+E-posta: coordinator.test@societas.local
+
+Rol: Student Affairs Coordinator
+
+Rol ID: 1
+
+Şifre: 12345678
+
+scrypt:32768:8:1$rLGEQpj8PZhFbRCO$f378e383e6c22edc618941601d36f9c4a98e977abd8e189b1c81662cf2a19aae251e90e8dd5b6c631c22cd7db29101aa7619ab45cfc084f137505ebd4cd97ed0
